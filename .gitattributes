@@ -3,3 +3,4 @@
 *.yml linguist-language=Java
 *.xml linguist-language=Java
 *.py linguist-language=Python
+*.html linguist-language=JavaScript
